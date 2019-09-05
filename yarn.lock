@@ -2802,6 +2802,11 @@ fresh@0.5.2:
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
   integrity sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
 
+froala-editor@^3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/froala-editor/-/froala-editor-3.0.5.tgz#abcfb93c1133de3870de727cc1d16fa194aeb8aa"
+  integrity sha512-DWdKuhtRnI/OSOVaC03Vqc3Y9AiqZVCPQ/D8Si/3yu/FJgxdjFVGluseAEVmz2AhHe2lh6ni2S7SqDOuk/8XJg==
+
 from2@^2.1.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/from2/-/from2-2.3.0.tgz#8bfb5502bde4a4d36cfdeea007fcca21d7e382af"
