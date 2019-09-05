@@ -34,8 +34,9 @@ import 'froala-editor/js/plugins/url.min.js';
 import 'froala-editor/js/plugins/video.min.js';
 import 'froala-editor/js/plugins/word_paste.min.js';
 import 'froala-editor/js/languages/ja.js';
-
-
+import 'froala-editor/js/third_party/embedly.min.js';
+import 'froala-editor/js/third_party/font_awesome.min.js';
+import 'froala-editor/js/third_party/image_tui.min.js';
 
 import 'froala-editor/css/froala_editor.min.css';
 import 'froala-editor/css/froala_style.min.css';
@@ -54,6 +55,9 @@ import 'froala-editor/css/plugins/quick_insert.min.css';
 import 'froala-editor/css/plugins/special_characters.min.css';
 import 'froala-editor/css/plugins/table.min.css';
 import 'froala-editor/css/plugins/video.min.css';
+import 'froala-editor/css/third_party/embedly.min.css';
+import 'froala-editor/css/third_party/font_awesome.min.css';
+import 'froala-editor/css/third_party/image_tui.min.css';
 
 
 
